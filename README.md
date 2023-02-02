@@ -1,2 +1,2 @@
 # piccojs.github.io
-picco site
+Official picco source, refer to docs [here](//github.com/piccojs/picco).
